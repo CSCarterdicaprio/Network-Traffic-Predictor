@@ -8,6 +8,6 @@ It uses Linear Regression to predict the views and Random Tree to classify if tr
 
 ## Setup
 1. Download the Notebook
-2. [Find the training data here(look for train1.csv)]https://www.kaggle.com/c/web-traffic-time-series-forecasting
+2. [Find the training data here(look for train1.csv)](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 3. Upload both to something that can run the notebook like a google colab
 4. Hit Run
